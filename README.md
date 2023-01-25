@@ -20,3 +20,5 @@
 - getmatch.ru
 - hh.ru
 - yandex.ru/jobs
+- t.me/FAANGInterview
+- t.me/datajobschannel
