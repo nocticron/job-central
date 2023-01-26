@@ -22,3 +22,4 @@
 - yandex.ru/jobs
 - t.me/FAANGInterview
 - t.me/datajobschannel
+- djinni.co/hire
